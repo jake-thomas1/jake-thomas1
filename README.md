@@ -3,16 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=220&section=header&text=Jake%20Thomas%20Mathew&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/jake-thomas1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Pramana+%E2%80%94+an+explainable+multimodal+RAG+engine;Finalist+%40+Canara+Bank+HackAIthon+2026;CSE+Undergrad+%40+NIT+Surat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=Building+Pramana+%7C+Explainable+AI+for+Documents;Full-Stack+Developer+%7C+AI%2FML+Engineer;Finalist+%40+Canara+Bank+HackAIthon+2026;CSE+Undergraduate+%40+NIT+Surat" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-mathewjake733%40gmail.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathewjake733@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jake--thomas1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jake-thomas1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20your%20link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Add%20your%20link-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jake-thomas-3b53a1321/)
 ![Profile Views](https://komarev.com/ghpvc/?username=jake-thomas1&style=for-the-badge&color=1E3A8A&label=PROFILE+VIEWS)
 
 </div>
@@ -123,7 +121,7 @@ A full-stack lifestyle platform connecting customers, artists, and admins around
 
 `React` `Node.js` `MongoDB` `Gemini AI` `Socket.io`
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jake-thomas1)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jake-thomas1/Rabuste)
 
 </td>
 </tr>
@@ -143,7 +141,7 @@ A role-based platform serving fans and clubs, combining community features with 
 
 `Node.js` `Express.js` `MongoDB` `Razorpay API`
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jake-thomas1)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jake-thomas1/Crossfit)
 
 </td>
 <td width="50%" valign="top">
@@ -159,7 +157,7 @@ A virtual classroom built for teachers and students, combining assignment manage
 
 `MongoDB` `Express.js` `React.js` `Node.js`
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jake-thomas1)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jake-thomas1/ProtoVolt-Lab)
 
 </td>
 </tr>
