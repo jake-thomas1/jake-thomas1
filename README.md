@@ -246,6 +246,18 @@ A virtual classroom built for teachers and students, combining assignment manage
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jake-thomas1/jake-thomas1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jake-thomas1/jake-thomas1/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jake-thomas1/jake-thomas1/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+------
+
+<div align="center">
+
 ### 📫 Let's Connect
 
 Open to internships, hackathon teams, and collaborative builds in AI/ML and full-stack engineering.
