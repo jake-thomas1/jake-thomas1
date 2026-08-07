@@ -22,7 +22,7 @@
 I'm a Computer Science undergraduate at **Sardar Vallabhbhai National Institute of Technology (NIT Surat)**, building production-grade, AI-integrated full-stack systems — from explainable document-intelligence engines to on-premises fraud-detection platforms for banking. I care about shipping software that is **secure, scalable, and genuinely intelligent**, not just AI-flavored.
 
 - 🌟 Building **[Pramana](https://github.com/jake-thomas1/Pramana-Latest)** — my flagship project: an explainable, hallucination-aware multimodal RAG engine for high-stakes document QA, shipped as an MCP server
-- 🎯 Also engineered **TerraShield** — an AI-driven property loan fraud detection platform for the **Canara Bank HackAIthon**, running fully on-prem with zero cloud data exposure
+- 🏆 Built **TerraShield**, an AI-powered property loan fraud detection platform for the **Canara Bank HackAIthon**, securing **2nd place among 5,500+ teams** and a **₹3 lakh prize**.
 - 🧠 Deep interest in applied LLMs, retrieval-augmented generation, document forensics, and secure system design
 - 🌱 Currently sharpening skills in **agentic protocols (MCP)**, **hybrid retrieval systems**, and **containerized ML deployment**
 
@@ -34,10 +34,9 @@ I'm a Computer Science undergraduate at **Sardar Vallabhbhai National Institute 
 
 | Recognition | Program / Event | Project |
 |:---:|:---|:---:|
-| 🥈 **Finalist** | Canara Bank HackAIthon | TerraShield |
-| 🥈 **Finalist** | Google Winter of Code | Rabuste |
-| 🥈 **Finalist** | WebWonders Web Development Competition | Crossfit |
-| 🥈 **Finalist** | Nexus Web Development Competition | Crossfit |
+| 🥈 **2nd place(out of 5.5k teams)** | Canara Bank HackAIthon | TerraShield |
+| 🥈 **Runners-up** | Google Winter of Code | Rabuste |
+| 🥈 **Runners-up** | WebWonders Web Development Competition | Crossfit |
 | 🥇 **School Topper — Computer Science** | Class 12, CBSE Board (97%) | — |
 | 🎤 **Invited Speaker** | ACM "Hour of AI" Program | AI Fundamentals Session |
 | ✅ **Selected — Internal Round** | Smart India Hackathon (SIH) | — |
@@ -46,11 +45,16 @@ I'm a Computer Science undergraduate at **Sardar Vallabhbhai National Institute 
 
 ## 🤝 Leadership & Campus Involvement
 
-- 🎪 **Organizer, Mindbend 2026 (NIT Surat)** — Contributed to the planning and execution of one of Gujarat's largest techno-managerial festivals, coordinating event operations and logistics.
-- 🚀 **Organizer, E-Cell Startup Event** — Coordinated teams, scheduling, and event execution for entrepreneurship-focused initiatives.
-- 💻 **Executive Member, ACM Student Chapter (SVNIT)** — Contribute to technical events, coding initiatives, and student engagement activities.
-- 🏛️ **Departmental Cell Representative, NEXUS (CSE)** — Represent the Computer Science department in organizing technical events, workshops, and student-driven initiatives.
-- 🏅 **Member, Sports Council** — Assisted in organizing and managing inter-college sports tournaments and campus sporting events.
+* 🏛️ **Technical Lead & Core Committee Member, NEXUS (CSE Department)** — Lead the technical team responsible for developing and maintaining the department's digital platforms, mentor junior developers, oversee technical decisions, and collaborate with the core committee to organize technical events, workshops, and initiatives for the CSE community.
+
+* 🎪 **Organizer, Mindbend 2026 (NIT Surat)** — Contributed to the planning and execution of one of Gujarat's largest techno-managerial festivals, coordinating event operations, logistics, and cross-team collaboration.
+
+* 💻 **Executive Member, ACM Student Chapter (SVNIT)** — Contribute to technical events, coding initiatives, workshops, and student engagement programs that promote software development and competitive programming.
+
+* 🚀 **Organizer, E-Cell Startup Event** — Coordinated teams, scheduling, and event execution for entrepreneurship-focused initiatives, ensuring smooth planning and on-ground management.
+
+* 🏅 **Member, Sports Council** — Assisted in organizing and managing inter-college sports tournaments and campus sporting events.
+
 
 ---
 
@@ -91,7 +95,7 @@ A hallucination-aware RAG chatbot built for documents where being *wrong* isn't 
 
 **🏦 TerraShield**
 *AI Property Loan Fraud Intelligence Platform*
-**Canara Bank HackAIthon Finalist**
+**Canara Bank HackAIthon Runners up**
 
 An on-premises fraud-detection engine that flags forged property and loan documents in real time — built for a banking environment where data never leaves the building.
 
@@ -230,29 +234,11 @@ A virtual classroom built for teachers and students, combining assignment manage
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jake-thomas1&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=1E3A8A&text_color=334155&icon_color=0EA5E9&border_color=E2E8F0" width="48%"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=jake-thomas1&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=0EA5E9&fire=1E3A8A&currStreakLabel=1E3A8A&sideLabels=334155&currStreakNum=1E3A8A&sideNums=334155&dates=94A3B8" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jake-thomas1&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=1E3A8A&text_color=334155&border_color=E2E8F0" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=jake-thomas1&theme=flat&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" width="48%"/>
-
-</div>
 
 ---
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jake-thomas1/jake-thomas1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jake-thomas1/jake-thomas1/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jake-thomas1/jake-thomas1/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ------
 
